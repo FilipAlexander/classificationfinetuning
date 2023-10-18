@@ -1,0 +1,7 @@
+finished_models
+.env
+.conda
+wandb
+__pycache__
+.DS_Store
+sync_to_gpubeast.sh
