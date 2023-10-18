@@ -13,6 +13,7 @@ Order of operations:
 6. evaluate.py
 7. generate.py
 8. python -m wandb sweep sweep.yml
+9. have a great classifier :)
 
 Some of these python files need to be edited for your use. This code is
 a supplement of this workshop: https://www.youtube.com/watch?v=fyydvBcJTn8
