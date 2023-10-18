@@ -5,3 +5,7 @@ wandb
 __pycache__
 .DS_Store
 sync_to_gpubeast.sh
+data/*
+!data/emotion_dataset.jsonl.zip
+confusion_dict.json
+confusion_matrix.png
