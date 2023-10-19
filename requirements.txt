@@ -1,1 +1,11 @@
 transformers
+wandb
+datasets
+scikit-learn
+torch
+sanic
+matplotlib
+openai
+python-dotenv
+tqdm
+seaborn
